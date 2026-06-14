@@ -1,10 +1,4 @@
 
-**Steps:**
-1. Open VS Code
-2. Right-click on root folder → **New File**
-3. Name it: `README.md`
-4. Copy the entire code below and paste it
-5. Save with **Ctrl + S**
 
 ````markdown
 # 🧠 Emotion Detection & Wellness Guidance System
