@@ -1,6 +1,3 @@
-# ✅ Excellent! Now let's create the README
-
-## **FILE 7: `README.md`** (Documentation)
 
 **Steps:**
 1. Open VS Code
